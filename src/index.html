@@ -24,6 +24,20 @@
 
 <body>
 
+  <section id="modificarHTML">
+    <h2>Modificar HTML</h2>
+    <p id="paragraf">Cambiam amb JS</p>
+    
+    <input type="text" id="content_new" placeholder="Escriu algo interesant">
+    <button onclick="modificar()">Modifica!</button>
+
+    <script>
+        function modificar() {
+            var content_new = document.getElementById('content_new').value;
+            document.getElementById('paragraf').innerText = content_new;
+        }
+    </script>
+</section>
   <!-- Add your site or application content here -->
     <header>
         <h1>Prac1_Desplegament</h1>
