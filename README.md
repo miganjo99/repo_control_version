@@ -9,7 +9,7 @@ Este repositorio contiene ejemplos de JavaScript aplicados a HTML y CSS.
 
 Puedes descargar la documentación en formato PDF haciendo clic en el siguiente enlace:
 
-[Descargar documentación PDF](https://github.com/miganjo99/repo_control_version/src/pdf/Práctica_Sistema_de_control_de_versiones_MiguelGandiaJorda.pdf)
+[Descargar documentación PDF](https://github.com/miganjo99/repo_control_version/src/pdf/Practica_Sistema_de_control_de_versiones_MiguelGandiaJorda.pdf)
 ## Estructura del Proyecto
 
 - Estructura inicial del proyecto
