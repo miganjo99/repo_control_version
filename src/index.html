@@ -57,7 +57,20 @@
               document.getElementById('paragraf').innerText = content_new;
           }
       </script>
-  </section>
+    </section>
+
+    <section id="modificarAtributs">
+        <h2>Modificar atributs </h2>
+        <img id="imatge" src="icon.png"  width="auto">
+        <button onclick="canviarImatge()">Canviar imatge</button>
+    
+        <script>
+            function canviarImatge() {
+                document.getElementById('imatge').src = "ceba.png";
+            }
+        </script>
+    </section>
+    
 
   <script src="js/app.js"></script>
 
